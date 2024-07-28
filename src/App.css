@@ -1,0 +1,14 @@
+.container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 300px;
+  text-align: center;
+  margin: auto;
+}
+.progress-bg {
+  background-color: rgb(233, 199, 199);
+  border-radius: 10px;
+  height: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
